@@ -27,7 +27,7 @@ To analyze customer data, identify churn patterns, and build a machine learning 
 
 ---
 
-## ❓ Business Questions Answered
+## ❓ Business Questions Answered 
 🔹 Why do customers churn?  
 🔹 Which customers are at high risk?  
 🔹 How do tenure, charges, and contracts impact churn?  
