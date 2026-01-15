@@ -13,7 +13,7 @@
 ---
 
 ## 🌟 Project Overview
-Customer churn is one of the most critical challenges faced by businesses in **telecom, SaaS, and banking** industries.  
+Customer churn is one of the most critical challenges  faced by businesses in **telecom, SaaS, and banking** industries.  
 This project analyzes customer behavior and builds **machine learning models** to predict churn, enabling businesses to take **proactive retention actions**.
 
 ✔ End-to-end data analysis  
